@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### I'm Harizi Riad
+### I'm Harizi Riyadh
 - 🔧 I’m currently working on a new **programming language**
 - 📚 I’m currently learning about **Compilers & Virtual Machines**
 - 📈 I'm also learning **Trading**
