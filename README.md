@@ -35,11 +35,6 @@
 <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
 
----
-
-### Databases:
-
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 ---
 
